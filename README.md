@@ -31,7 +31,10 @@ square_root()
 ```
 
 ## Output:
-![Alt text](image.png)
+
+
+![image](https://github.com/23008344/Square-root-of-a-number/assets/145742655/654f7c84-a509-4b43-a65c-8ea9e994b9ac)
+
 
 
 ## Result:
